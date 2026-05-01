@@ -9,7 +9,7 @@ conda activate anomaly
 pip install -e .
 ```
 
-#### 1.1.2 Using requirements.txt
+#### 1.1.2. Using requirements.txt
 ```bash
 conda create --name anomaly python=3.10.12
 conda activate anomaly
@@ -18,7 +18,7 @@ pip install -r envs/requirements.txt
 pip install -e .
 ```
 
-### 1.2 Using uv
+### 1.2. Using uv
 ```bash
 uv venv anomaly --python=3.10.12
 source anomaly/bin/activate
