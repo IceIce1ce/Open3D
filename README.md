@@ -1,4 +1,4 @@
-# A Simple Toolbox for 3D Object Detection Models
+# Open3D: A Simple Toolbox for 3D Object Detection Models
 
 ## 1. Setup
 ### 1.1. Using conda
