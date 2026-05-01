@@ -1,0 +1,26 @@
+# general ignore
+__pycache__/
+*.pt
+*.pth
+*.pyth
+*.bin
+*.safetensors
+*.mat
+*.xyz
+*.npy
+*.npz
+*.csv
+*.so
+*.egg
+*.mp4
+*.tar
+*.gz
+*.tar.gz
+*.pkl
+*.h5ad
+*.pckl
+*.ruff_cache
+
+# image model ignore
+Image_Models/Knowledge_Distillation_Models/LCSD/data
+Image_Models/3D_Models/3DC/data
