@@ -1,4 +1,4 @@
-# Open3D: A Simple Toolbox for 3D Object Detection Methods
+# Open3D: A Toolbox for 3D Object Detection Methods
 
 ## 1. Setup
 ### 1.1. Using conda
@@ -30,7 +30,7 @@ If you find our work useful, please cite the following:
 ```
 @misc{Chi2025,
   author       = {Chi Tran},
-  title        = {Open3D: A Simple Toolbox for 3D Object Detection Methods},
+  title        = {Open3D: A Toolbox for 3D Object Detection Methods},
   publisher    = {GitHub},
   booktitle    = {GitHub repository},
   howpublished = {https://github.com/IceIce1ce/Open3D},
