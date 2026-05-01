@@ -1,5 +1,5 @@
-# general ignore
 __pycache__/
+.idea
 *.pt
 *.pth
 *.pyth
@@ -20,7 +20,3 @@ __pycache__/
 *.h5ad
 *.pckl
 *.ruff_cache
-
-# image model ignore
-Image_Models/Knowledge_Distillation_Models/LCSD/data
-Image_Models/3D_Models/3DC/data
